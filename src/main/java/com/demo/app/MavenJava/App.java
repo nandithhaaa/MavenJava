@@ -5,6 +5,6 @@ package com.demo.app.MavenJava;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Nanditha");
+        System.out.println("Hello Nanditha");
     }
 }
